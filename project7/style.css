@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(13, 13, 13);
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.titre {
+    background-color: rgb(5, 153, 8);
+    height: 200px;
+    width: 50%;
+    margin: auto;
+    color: rgb(235, 235, 231);
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.p1, .p3 {
+    background-color: rgb(5, 153, 8);
+    height: 200px;
+    width: 80%;
+    border: 2px solid rgb(236, 232, 232);
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 25px;
+    color: white;
+    text-align: center;
+}
+
+.p2 {
+    height: 200px;
+    width: 80%;
+    background-color: rgb(5, 153, 8);
+    border: 2px solid rgb(236, 232, 232);
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 25px;
+    color: white;
+    text-align: center;
+}

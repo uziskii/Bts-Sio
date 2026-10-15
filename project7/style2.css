@@ -1,0 +1,34 @@
+body {
+    background-color: #070707;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.titre {
+    background-color: #0ab04f;
+    height: 200px;
+    width: 400px;
+    color: #ffffff;
+    float: left;
+    border: 2px solid #fdfdfb;
+}
+
+.b2 {
+    background-color: #0ab04f;
+    height: 400px;
+    width: 400px;
+    margin-bottom: 20px;
+    color: #f4f3ee;
+    float: right;
+    border-radius: 5px;
+    border: 2px solid #f1f1ef;
+}
+
+.b3 {
+    background-color: #0ab04f;
+    height: 400px;
+    width: 400px;
+    color: #fcfcfa;
+    clear: both;
+    border: 2px solid #f6f6f5;
+}
